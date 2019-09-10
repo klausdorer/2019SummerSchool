@@ -1,0 +1,11 @@
+.idea/
+**/.ipynb_checkpoints
+**/logs
+
+*.pyc
+*.hdf5
+
+
+HsoMagmaClassification/data/magmaDataSet\.zip
+HsoMagmaClassification/MagmaDataset.zip
+HsoMagmaClassification/superimposed_image.png
